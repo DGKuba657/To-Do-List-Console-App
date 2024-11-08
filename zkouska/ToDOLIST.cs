@@ -8,8 +8,7 @@ public class ToDOLIST
         DeleteTask,
         Exit
     }
-    public static void List()
-    {
+    public static void List() {
          List<string> toDoList = new List<string>();
         while (true) {
             if (toDoList.Count > 0) {
@@ -19,8 +18,7 @@ public class ToDOLIST
                 }
                 Console.WriteLine("");
             }
-            else
-            {
+            else {
                 Console.WriteLine("You currently have no tasks in your To-do list.");
                 Console.WriteLine("");
             }
