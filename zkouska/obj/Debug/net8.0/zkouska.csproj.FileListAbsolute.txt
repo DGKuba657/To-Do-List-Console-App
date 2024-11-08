@@ -1,0 +1,14 @@
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\bin\Debug\net8.0\zkouska.exe
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\bin\Debug\net8.0\zkouska.deps.json
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\bin\Debug\net8.0\zkouska.runtimeconfig.json
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\bin\Debug\net8.0\zkouska.dll
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\bin\Debug\net8.0\zkouska.pdb
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\obj\Debug\net8.0\zkouska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\obj\Debug\net8.0\zkouska.AssemblyInfoInputs.cache
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\obj\Debug\net8.0\zkouska.AssemblyInfo.cs
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\obj\Debug\net8.0\zkouska.csproj.CoreCompileInputs.cache
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\obj\Debug\net8.0\zkouska.dll
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\obj\Debug\net8.0\refint\zkouska.dll
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\obj\Debug\net8.0\zkouska.pdb
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\obj\Debug\net8.0\zkouska.genruntimeconfig.cache
+C:\Users\Jakub.funk\RiderProjects\zkouska\zkouska\obj\Debug\net8.0\ref\zkouska.dll
