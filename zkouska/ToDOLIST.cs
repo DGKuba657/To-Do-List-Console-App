@@ -1,7 +1,6 @@
 ﻿namespace Test;
 
-public class ToDOLIST
-{
+public class ToDOLIST {
     
     enum UserChoice {
         AddTask = 1,
