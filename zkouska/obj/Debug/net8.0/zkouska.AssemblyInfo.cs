@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zkouska")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+541466cbc493c5123d776cdd90e2a9af9e78aa6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d54b9940348a145cb97678f2f7df419b73801bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("zkouska")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zkouska")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

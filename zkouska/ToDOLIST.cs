@@ -39,7 +39,7 @@ public class ToDOLIST {
             }
             else if (choice == (int)UserChoice.DeleteTask) {
                 if (toDoList.Count > 0) {
-                    Console.Write("Enter the number of task you want to delete: \n");
+                    Console.WriteLine("Enter the number of task you want to delete: ");
                     
                     for (int i = 0; i < toDoList.Count; i++) {
                         Console.WriteLine("(" + (i + 1) + ") " + toDoList[i]); 
